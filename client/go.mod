@@ -1,4 +1,4 @@
-module github.com/md-miran/logging-test-repo
+module github.com/md-miran/logging-test-repo/client
 
 go 1.14
 
